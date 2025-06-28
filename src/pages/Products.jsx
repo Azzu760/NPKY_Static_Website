@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import riceImage from "../assets/images/Rice.jpg";
 import branImage from "../assets/images/Rice-bran.jpg";
 import huskImage from "../assets/images/rice-husk.jpg";
-import residualImage from "../assets/images/khanda.jpg";
+import residualImage from "../assets/images/Khanda.jpg";
 
 const productsData = [
   {

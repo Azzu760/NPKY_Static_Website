@@ -1,9 +1,9 @@
 import { useTranslation } from "react-i18next";
 import { motion } from "framer-motion";
-import gallery1 from "../assets/images/rice.jpg";
-import gallery2 from "../assets/images/rice.jpg";
-import gallery3 from "../assets/images/rice.jpg";
-import gallery4 from "../assets/images/rice.jpg";
+import gallery1 from "../assets/images/Rice.jpg";
+import gallery2 from "../assets/images/Rice.jpg";
+import gallery3 from "../assets/images/Rice.jpg";
+import gallery4 from "../assets/images/Rice.jpg";
 
 const images = [gallery1, gallery2, gallery3, gallery4, gallery1, gallery2];
 

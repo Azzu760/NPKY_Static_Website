@@ -1,0 +1,60 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "products": "Our Products",
+        "gallery": "Gallery",
+        "contact": "Contact"
+    },
+    "firm": {
+        "name": "New Puja Khadya Udyog"
+    },
+    "home": {
+        "title": "Welcome to Our Rice Mill.",
+        "description": "We produce the finest quality rice in Nepal.",
+        "knowMore": "Know More"
+    },
+    "about": {
+        "title": "About Us",
+        "description": "New Puja Khadya Udhyog has been a trusted rice mill for over 25 years, blending tradition with innovation to deliver premium rice products to our community. We take pride in our sustainable farming and modern milling processes.",
+        "features": {
+            "pureGrains": "100% Pure and Clean Grains",
+            "advancedMachinery": "Processed Using Advanced Machinery",
+            "organicallyProcessed": "Organically and Hygienically Handled",
+            "qualityAssured": "Certified and Quality-Assured Products"
+        }
+    },
+    "products": {
+        "title": "Our Products",
+        "description": "Explore our range of high-quality rice products, including various types of rice, rice bran, husk, and residual rice.",
+        "riceTypes": [
+            "Basmati",
+            "Jeera Masino",
+            "Mansuli",
+            "Sona Masoori"
+        ],
+        "bran": [
+            "Rice Bran Oil",
+            "Rice Bran Meal"
+        ],
+        "husk": [
+            "Rice Husk for Fuel",
+            "Rice Husk for Compost"
+        ],
+        "residualRice": [
+            "Small Broken Rice",
+            "Rice Residue"
+        ]
+    },
+    "gallery": {
+        "title": "Gallery",
+        "description": "Explore images of our rice mill, products, and daily operations."
+    },
+    "contact": {
+        "title": "Contact Us",
+        "address": "Address",
+        "phone": "Phone",
+        "email": "Email",
+        "description": "Feel free to reach out to us through phone, email, or visit our mill location."
+    }
+}
